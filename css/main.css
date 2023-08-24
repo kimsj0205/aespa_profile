@@ -42,7 +42,7 @@ section{
 }
 
 section:nth-child(1){ background-image:url(../img/main.jpg);}
-section:nth-child(2){ background-image:url(../img/karina_1.jpg);}
+section:nth-child(2){ background-image:url(../img/karina.jpg);}
 section:nth-child(3){ background-image:url(../img/GISELLE_1.jpg);}
 section:nth-of-type(4){ background-image:url(../img/ningning.jpg);}
 section:nth-of-type(5){ background-image:url(../img/winter.jpg);}
